@@ -1,4 +1,4 @@
 DataCODEC
 =========
 
-DataCODEC. A simple Steganography tool.
+DataCODEC. A simple Steganography tool developed using C#
