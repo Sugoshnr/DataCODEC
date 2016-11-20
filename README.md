@@ -1,5 +1,5 @@
 DataCODEC
 =========
-+Steganography Tool.
+Steganography Tool.
   
--DataCODEC. A simple Steganography tool developed using C#
+DataCODEC. A simple Steganography tool developed using C#
